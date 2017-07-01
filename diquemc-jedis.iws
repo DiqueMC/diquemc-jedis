@@ -1,7 +1,338 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f1ac457-a739-4d58-9a30-de9d4375ca19" name="Default" comment="" />
+    <list default="true" id="0f1ac457-a739-4d58-9a30-de9d4375ca19" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/BaseKeyedPooledObjectFactory.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/BaseKeyedPooledObjectFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/BaseObjectPool.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/BaseObjectPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/BasePooledObjectFactory.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/BasePooledObjectFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/KeyedObjectPool.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/KeyedObjectPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/KeyedPooledObjectFactory.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/KeyedPooledObjectFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/ObjectPool.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/ObjectPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$ErodingFactor.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$ErodingFactor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$ErodingKeyedObjectPool.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$ErodingKeyedObjectPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$ErodingObjectPool.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$ErodingObjectPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$ErodingPerKeyKeyedObjectPool.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$ErodingPerKeyKeyedObjectPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$KeyedObjectPoolMinIdleTimerTask.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$KeyedObjectPoolMinIdleTimerTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$ObjectPoolMinIdleTimerTask.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$ObjectPoolMinIdleTimerTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$SynchronizedKeyedObjectPool.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$SynchronizedKeyedObjectPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$SynchronizedKeyedPooledObjectFactory.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$SynchronizedKeyedPooledObjectFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$SynchronizedObjectPool.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$SynchronizedObjectPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$SynchronizedPooledObjectFactory.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$SynchronizedPooledObjectFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$TimerHolder.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils$TimerHolder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PoolUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PooledObject.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PooledObject.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PooledObjectFactory.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PooledObjectFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PooledObjectState.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/PooledObjectState.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/SwallowedExceptionListener.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/SwallowedExceptionListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/TrackedUse.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/TrackedUse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/UsageTracking.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/UsageTracking.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/AbandonedConfig.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/AbandonedConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/BaseGenericObjectPool$Evictor.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/BaseGenericObjectPool$Evictor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/BaseGenericObjectPool.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/BaseGenericObjectPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/BaseObjectPoolConfig.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/BaseObjectPoolConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/DefaultEvictionPolicy.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/DefaultEvictionPolicy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/DefaultPooledObject$AbandonedObjectCreatedException.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/DefaultPooledObject$AbandonedObjectCreatedException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/DefaultPooledObject.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/DefaultPooledObject.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/DefaultPooledObjectInfo.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/DefaultPooledObjectInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/DefaultPooledObjectInfoMBean.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/DefaultPooledObjectInfoMBean.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/EvictionConfig.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/EvictionConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/EvictionPolicy.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/EvictionPolicy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/EvictionTimer$1.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/EvictionTimer$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/EvictionTimer$PrivilegedGetTccl.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/EvictionTimer$PrivilegedGetTccl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/EvictionTimer$PrivilegedSetTccl.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/EvictionTimer$PrivilegedSetTccl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/EvictionTimer.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/EvictionTimer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/GenericKeyedObjectPool$1.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/GenericKeyedObjectPool$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/GenericKeyedObjectPool$ObjectDeque.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/GenericKeyedObjectPool$ObjectDeque.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/GenericKeyedObjectPool.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/GenericKeyedObjectPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/GenericKeyedObjectPoolConfig.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/GenericKeyedObjectPoolConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/GenericKeyedObjectPoolMXBean.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/GenericKeyedObjectPoolMXBean.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/GenericObjectPool.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/GenericObjectPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/GenericObjectPoolConfig.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/GenericObjectPoolConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/GenericObjectPoolMXBean.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/GenericObjectPoolMXBean.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/InterruptibleReentrantLock.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/InterruptibleReentrantLock.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/LinkedBlockingDeque$1.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/LinkedBlockingDeque$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/LinkedBlockingDeque$AbstractItr.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/LinkedBlockingDeque$AbstractItr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/LinkedBlockingDeque$DescendingItr.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/LinkedBlockingDeque$DescendingItr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/LinkedBlockingDeque$Itr.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/LinkedBlockingDeque$Itr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/LinkedBlockingDeque$Node.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/LinkedBlockingDeque$Node.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/LinkedBlockingDeque.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/LinkedBlockingDeque.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/PoolImplUtils.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/PoolImplUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/PooledSoftReference.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/PooledSoftReference.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/SoftReferenceObjectPool.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/impl/SoftReferenceObjectPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/proxy/BaseProxyHandler.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/proxy/BaseProxyHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/proxy/CglibProxyHandler.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/proxy/CglibProxyHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/proxy/CglibProxySource.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/proxy/CglibProxySource.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/proxy/JdkProxyHandler.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/proxy/JdkProxyHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/proxy/JdkProxySource.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/proxy/JdkProxySource.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/proxy/ProxiedKeyedObjectPool.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/proxy/ProxiedKeyedObjectPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/proxy/ProxiedObjectPool.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/proxy/ProxiedObjectPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/proxy/ProxySource.class" afterPath="$PROJECT_DIR$/compiledlib/org/apache/commons/pool2/proxy/ProxySource.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/AdvancedBinaryJedisCommands.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/AdvancedBinaryJedisCommands.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/AdvancedJedisCommands.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/AdvancedJedisCommands.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BasicCommands.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BasicCommands.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BasicRedisPipeline.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BasicRedisPipeline.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryClient$1.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryClient$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryClient$LIST_POSITION.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryClient$LIST_POSITION.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryClient.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryJedis.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryJedis.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryJedisCommands.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryJedisCommands.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryJedisPubSub.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryJedisPubSub.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryRedisPipeline.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryRedisPipeline.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryScriptingCommands.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryScriptingCommands.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryShardedJedis.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryShardedJedis.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BitOP.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BitOP.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BitPosParams.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BitPosParams.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Builder.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Builder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$1.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$10.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$11.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$12.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$13.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$14.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$15.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$2.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$3.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$4.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$5.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$6.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$7.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$8.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$9.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/BuilderFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Client.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Client.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ClusterCommands.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ClusterCommands.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ClusterPipeline.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ClusterPipeline.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Commands.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Commands.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Connection.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Connection.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/DebugParams.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/DebugParams.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/HostAndPort.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/HostAndPort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Jedis.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Jedis.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$1.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$10.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$100.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$100.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$101.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$101.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$102.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$102.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$103.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$103.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$104.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$104.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$105.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$105.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$106.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$106.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$107.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$107.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$108.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$108.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$109.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$109.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$11.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$110.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$110.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$111.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$111.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$112.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$112.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$113.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$113.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$114.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$114.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$115.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$115.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$116.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$116.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$117.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$117.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$118.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$118.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$119.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$119.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$12.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$120.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$120.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$121.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$121.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$122.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$122.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$123.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$123.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$124.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$124.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$125.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$125.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$126.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$126.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$127.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$127.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$128.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$128.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$129.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$129.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$13.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$130.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$130.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$131.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$131.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$132.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$132.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$133.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$133.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$134.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$134.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$135.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$135.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$136.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$136.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$137.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$137.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$138.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$138.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$14.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$15.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$16.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$17.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$18.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$19.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$19.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$2.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$20.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$20.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$21.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$21.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$22.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$22.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$23.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$23.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$24.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$24.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$25.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$25.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$26.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$26.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$27.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$27.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$28.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$28.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$29.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$29.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$3.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$30.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$30.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$31.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$31.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$32.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$32.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$33.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$33.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$34.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$34.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$35.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$35.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$36.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$36.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$37.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$37.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$38.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$38.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$39.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$39.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$4.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$40.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$40.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$41.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$41.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$42.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$42.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$43.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$43.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$44.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$44.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$45.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$45.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$46.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$46.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$47.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$47.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$48.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$48.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$49.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$49.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$5.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$50.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$50.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$51.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$51.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$52.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$52.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$53.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$53.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$54.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$54.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$55.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$55.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$56.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$56.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$57.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$57.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$58.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$58.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$59.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$59.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$6.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$60.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$60.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$61.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$61.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$62.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$62.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$63.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$63.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$64.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$64.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$65.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$65.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$66.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$66.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$67.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$67.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$68.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$68.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$69.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$69.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$7.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$70.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$70.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$71.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$71.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$72.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$72.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$73.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$73.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$74.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$74.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$75.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$75.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$76.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$76.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$77.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$77.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$78.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$78.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$79.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$79.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$8.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$80.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$80.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$81.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$81.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$82.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$82.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$83.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$83.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$84.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$84.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$85.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$85.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$86.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$86.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$87.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$87.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$88.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$88.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$89.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$89.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$9.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$90.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$90.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$91.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$91.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$92.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$92.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$93.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$93.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$94.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$94.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$95.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$95.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$96.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$96.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$97.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$97.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$98.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$98.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$99.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$99.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$Reset.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster$Reset.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisClusterCommand.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisClusterCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisClusterConnectionHandler.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisClusterConnectionHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisClusterInfoCache.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisClusterInfoCache.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCommands.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCommands.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisFactory.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisMonitor.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisMonitor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisPool.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisPoolConfig.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisPoolConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisPubSub.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisPubSub.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisSentinelPool$MasterListener$1.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisSentinelPool$MasterListener$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisSentinelPool$MasterListener.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisSentinelPool$MasterListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisSentinelPool.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisSentinelPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisShardInfo.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisShardInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisSlotBasedConnectionHandler.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisSlotBasedConnectionHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/MultiKeyBinaryCommands.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/MultiKeyBinaryCommands.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/MultiKeyBinaryRedisPipeline.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/MultiKeyBinaryRedisPipeline.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/MultiKeyCommands.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/MultiKeyCommands.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/MultiKeyCommandsPipeline.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/MultiKeyCommandsPipeline.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/MultiKeyPipelineBase.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/MultiKeyPipelineBase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Pipeline$1.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Pipeline$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Pipeline$MultiResponseBuilder.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Pipeline$MultiResponseBuilder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Pipeline.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Pipeline.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/PipelineBase.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/PipelineBase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/PipelineBlock.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/PipelineBlock.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Protocol$Command.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Protocol$Command.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Protocol$Keyword.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Protocol$Keyword.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Protocol.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Protocol.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ProtocolCommand.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ProtocolCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Queable.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Queable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/RedisPipeline.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/RedisPipeline.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Response.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Response.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ScanParams.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ScanParams.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ScanResult.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ScanResult.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ScriptingCommands.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ScriptingCommands.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/SentinelCommands.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/SentinelCommands.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ShardedJedis.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ShardedJedis.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ShardedJedisPipeline$FutureResult.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ShardedJedisPipeline$FutureResult.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ShardedJedisPipeline.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ShardedJedisPipeline.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ShardedJedisPool$ShardedJedisFactory.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ShardedJedisPool$ShardedJedisFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ShardedJedisPool.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ShardedJedisPool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/SortingParams.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/SortingParams.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Transaction.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Transaction.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/TransactionBlock.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/TransactionBlock.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Tuple.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Tuple.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ZParams$Aggregate.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ZParams$Aggregate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ZParams.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/ZParams.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/InvalidURIException.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/InvalidURIException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/JedisAskDataException.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/JedisAskDataException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/JedisClusterException.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/JedisClusterException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/JedisClusterMaxRedirectionsException.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/JedisClusterMaxRedirectionsException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/JedisConnectionException.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/JedisConnectionException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/JedisDataException.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/JedisDataException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/JedisException.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/JedisException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/JedisMovedDataException.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/JedisMovedDataException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/JedisRedirectionException.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/jedis/exceptions/JedisRedirectionException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/ClusterNodeInformation.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/ClusterNodeInformation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/ClusterNodeInformationParser.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/ClusterNodeInformationParser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/Hashing$1.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/Hashing$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/Hashing.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/Hashing.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/IOUtils.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/IOUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/JedisByteHashMap$ByteArrayWrapper.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/JedisByteHashMap$ByteArrayWrapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/JedisByteHashMap$JedisByteEntry.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/JedisByteHashMap$JedisByteEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/JedisByteHashMap.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/JedisByteHashMap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/JedisClusterCRC16.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/JedisClusterCRC16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/JedisURIHelper.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/JedisURIHelper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/MurmurHash.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/MurmurHash.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/Pool.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/Pool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/RedisInputStream.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/RedisInputStream.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/RedisOutputStream.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/RedisOutputStream.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/SafeEncoder.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/SafeEncoder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/ShardInfo.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/ShardInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/Sharded.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/Sharded.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compiledlib/redis/clients/util/Slowlog.class" afterPath="$PROJECT_DIR$/compiledlib/redis/clients/util/Slowlog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bungee.yml" afterPath="$PROJECT_DIR$/bungee.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diquemc-jedis.iml" afterPath="$PROJECT_DIR$/diquemc-jedis.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diquemc-jedis.ipr" afterPath="$PROJECT_DIR$/diquemc-jedis.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diquemc-jedis.iws" afterPath="$PROJECT_DIR$/diquemc-jedis.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.yml" afterPath="$PROJECT_DIR$/plugin.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedis.java" afterPath="$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedis.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisBukkit.java" afterPath="$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisBukkit.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisBungee.java" afterPath="$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisBungee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisListener.java" afterPath="$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisPubSub.java" afterPath="$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisPubSub.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisServer.java" afterPath="$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisServer.java" />
+    </list>
     <ignored path="diquemc-jedis.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -13,34 +344,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="diquemc-jedis" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="bungee.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bungee.yml">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DiqueMCJedisServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
-              <caret line="0" column="18" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="plugin.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugin.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="150">
-              <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+            <state relative-caret-position="72">
+              <caret line="4" column="37" lean-forward="false" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -49,88 +366,8 @@
       <file leaf-file-name="DiqueMCJedis.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1350">
-              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#243#270#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DiqueMCJedisListener.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="165">
-              <caret line="3" column="81" selection-start-line="3" selection-start-column="81" selection-end-line="3" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DiqueMCJedisPubSub.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisPubSub.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="750">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="34" />
-              <folding>
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChatColor.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/spigot.jar!/net/md_5/bungee/api/ChatColor.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1290">
-              <caret line="35" column="44" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JedisPubSub.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/jedis-2.4.2.jar!/redis/clients/jedis/JedisPubSub.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="2445">
-              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DiqueMCJedisBukkit.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisBukkit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6886228" vertical-offset="0" max-vertical-offset="501">
-              <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#734#735#0" expanded="true" />
-                <element signature="e#776#777#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bukkit.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/spigot.jar!/org/bukkit/Bukkit.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1215" max-vertical-offset="3630">
-              <caret line="183" column="27" selection-start-line="183" selection-start-column="27" selection-end-line="183" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BukkitScheduler.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/spigot.jar!/org/bukkit/scheduler/BukkitScheduler.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="809" max-vertical-offset="1425">
-              <caret line="74" column="15" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="15" />
+            <state relative-caret-position="54">
+              <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -139,79 +376,150 @@
       <file leaf-file-name="DiqueMCJedisBungee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisBungee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="219" max-vertical-offset="525">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#838#839#0" expanded="true" />
-                <element signature="e#880#881#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BungeeCord.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/BungeeCord.jar!/net/md_5/bungee/BungeeCord.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="6435" max-vertical-offset="6645">
-              <caret line="561" column="17" selection-start-line="561" selection-start-column="17" selection-end-line="561" selection-end-column="17" />
+            <state relative-caret-position="54">
+              <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BungeeScheduler.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/BungeeCord.jar!/net/md_5/bungee/scheduler/BungeeScheduler.class">
+      <file leaf-file-name="AdvancedBinaryJedisCommands.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/AdvancedBinaryJedisCommands.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="522" max-vertical-offset="1020">
-              <caret line="72" column="33" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="33" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiqueMCJedisServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisServer.java">
+      <file leaf-file-name="BasicRedisPipeline.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/BasicRedisPipeline.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            <state relative-caret-position="18">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryJedisPubSub.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryJedisPubSub.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BitOP.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/BitOP.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DebugParams.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/DebugParams.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="JedisPool.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/jedis-2.4.2.jar!/redis/clients/jedis/JedisPool.class">
+        <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisPool.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.92" vertical-offset="2" max-vertical-offset="1305">
-              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Plugin.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/BungeeCord.jar!/net/md_5/bungee/api/plugin/Plugin.class">
+      <file leaf-file-name="ProtocolCommand.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/ProtocolCommand.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="960">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JavaPlugin.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/spigot.jar!/org/bukkit/plugin/java/JavaPlugin.class">
+      <file leaf-file-name="ShardedJedisPipeline.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/ShardedJedisPipeline.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="5010">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Transaction.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/Transaction.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JedisCluster.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jedis.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/Jedis.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiqueMCJedisBukkit.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisBukkit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="40" />
+              <folding>
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jedis.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/jedis-2.4.2.jar!/redis/clients/jedis/Jedis.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16344">
+              <caret line="940" column="5" lean-forward="false" selection-start-line="940" selection-start-column="5" selection-end-line="940" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -223,29 +531,23 @@
         <option value="$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisBukkit.java" />
         <option value="$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisServer.java" />
         <option value="$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisBungee.java" />
+        <option value="$PROJECT_DIR$/compiledlib/redis/clients/jedis/Jedis.class" />
         <option value="$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedis.java" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
     <option name="y" value="27" />
-    <option name="width" value="1368" />
-    <option name="height" value="742" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -257,8 +559,12 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -266,6 +572,42 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="diquemc-jedis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spigot-1.12.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diquemc-jedis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diquemc-jedis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -306,7 +648,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
+              <option name="myItemId" value="compiledlib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clients" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -320,12 +670,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
+              <option name="myItemId" value="compiledlib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BungeeCord.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -338,21 +684,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BungeeCord.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
+              <option name="myItemId" value="bin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -362,47 +699,31 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/compiledlib" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <envMap />
-      <setting name="rowsRange" value="" />
-      <method />
-    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
+      <module />
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -419,7 +740,20 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
@@ -428,7 +762,6 @@
       <envs />
       <method />
     </configuration>
-    <list size="0" />
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -445,34 +778,38 @@
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="27" width="1368" height="742" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="27" width="1920" height="1053" extended-state="0" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24848942" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24578059" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -485,11 +822,6 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="1" />
@@ -497,446 +829,381 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bungee.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
-          <caret line="0" column="18" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugin.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="150">
-          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="317" max-vertical-offset="975">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#243#270#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="165">
-          <caret line="3" column="81" selection-start-line="3" selection-start-column="81" selection-end-line="3" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisPubSub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="750">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spigot.jar!/net/md_5/bungee/api/ChatColor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1290">
-          <caret line="35" column="44" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/jedis-2.4.2.jar!/redis/clients/jedis/JedisPubSub.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="2445">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisBukkit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spigot.jar!/org/bukkit/Bukkit.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1215" max-vertical-offset="3630">
-          <caret line="183" column="27" selection-start-line="183" selection-start-column="27" selection-end-line="183" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spigot.jar!/org/bukkit/scheduler/BukkitScheduler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="809" max-vertical-offset="1425">
-          <caret line="74" column="15" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisBungee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="480">
-          <caret line="23" column="68" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="68" />
-          <folding>
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#838#839#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/BungeeCord.jar!/net/md_5/bungee/BungeeCord.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="6435" max-vertical-offset="6645">
-          <caret line="561" column="17" selection-start-line="561" selection-start-column="17" selection-end-line="561" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="561" column="17" lean-forward="false" selection-start-line="561" selection-start-column="17" selection-end-line="561" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/BungeeCord.jar!/net/md_5/bungee/scheduler/BungeeScheduler.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="522" max-vertical-offset="1020">
-          <caret line="72" column="33" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="33" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="72" column="33" lean-forward="false" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="180">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="29" />
+        <state relative-caret-position="0">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/BungeeCord.jar!/net/md_5/bungee/api/plugin/Plugin.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="960">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/spigot.jar!/org/bukkit/plugin/java/JavaPlugin.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="5010">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bungee.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
-          <caret line="0" column="18" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/plugin.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="150">
-          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="317" max-vertical-offset="975">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#243#270#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="165">
-          <caret line="3" column="81" selection-start-line="3" selection-start-column="81" selection-end-line="3" selection-end-column="81" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="3" column="81" lean-forward="false" selection-start-line="3" selection-start-column="81" selection-end-line="3" selection-end-column="81" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisPubSub.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="750">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/spigot.jar!/net/md_5/bungee/api/ChatColor.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1290">
-          <caret line="35" column="44" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="44" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="35" column="44" lean-forward="false" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/jedis-2.4.2.jar!/redis/clients/jedis/JedisPubSub.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="2445">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisBukkit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="450">
-          <caret line="23" column="5" selection-start-line="20" selection-start-column="27" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/spigot.jar!/org/bukkit/Bukkit.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1215" max-vertical-offset="3630">
-          <caret line="183" column="27" selection-start-line="183" selection-start-column="27" selection-end-line="183" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="183" column="27" lean-forward="false" selection-start-line="183" selection-start-column="27" selection-end-line="183" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/spigot.jar!/org/bukkit/scheduler/BukkitScheduler.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="809" max-vertical-offset="1425">
-          <caret line="74" column="15" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="15" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="74" column="15" lean-forward="false" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisBungee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="480">
-          <caret line="23" column="68" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="68" />
-          <folding>
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#838#839#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="23" column="68" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="68" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/BungeeCord.jar!/net/md_5/bungee/BungeeCord.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="6435" max-vertical-offset="6645">
-          <caret line="561" column="17" selection-start-line="561" selection-start-column="17" selection-end-line="561" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="561" column="17" lean-forward="false" selection-start-line="561" selection-start-column="17" selection-end-line="561" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/BungeeCord.jar!/net/md_5/bungee/scheduler/BungeeScheduler.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="522" max-vertical-offset="1020">
-          <caret line="72" column="33" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="33" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="72" column="33" lean-forward="false" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="180">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="29" />
+        <state relative-caret-position="0">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/BungeeCord.jar!/net/md_5/bungee/api/plugin/Plugin.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="960">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/spigot.jar!/org/bukkit/plugin/java/JavaPlugin.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="5010">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/spigot.jar!/org/bukkit/plugin/java/JavaPlugin.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="5010">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/BungeeCord.jar!/net/md_5/bungee/api/plugin/Plugin.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="960">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/plugin.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
-          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/spigot.jar!/org/bukkit/Bukkit.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1215" max-vertical-offset="3630">
-          <caret line="183" column="27" selection-start-line="183" selection-start-column="27" selection-end-line="183" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="183" column="27" lean-forward="false" selection-start-line="183" selection-start-column="27" selection-end-line="183" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/jedis-2.4.2.jar!/redis/clients/jedis/Client.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4457831" vertical-offset="810" max-vertical-offset="12105">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/jedis-2.4.2.jar!/redis/clients/jedis/JedisPubSub.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="2445">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bungee.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="350">
-          <caret line="0" column="18" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/BungeeCord.jar!/net/md_5/bungee/BungeeCord.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="6435" max-vertical-offset="6645">
-          <caret line="561" column="17" selection-start-line="561" selection-start-column="17" selection-end-line="561" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="561" column="5" lean-forward="false" selection-start-line="561" selection-start-column="5" selection-end-line="561" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/BungeeCord.jar!/net/md_5/bungee/scheduler/BungeeScheduler.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="522" max-vertical-offset="1020">
-          <caret line="72" column="33" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="33" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="72" column="33" lean-forward="false" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/spigot.jar!/org/bukkit/scheduler/BukkitScheduler.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="809" max-vertical-offset="1425">
-          <caret line="74" column="15" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="15" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="74" column="15" lean-forward="false" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/spigot.jar!/net/md_5/bungee/api/ChatColor.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1290">
-          <caret line="35" column="44" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="44" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="35" column="44" lean-forward="false" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisPubSub.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
-          <caret line="3" column="81" selection-start-line="3" selection-start-column="81" selection-end-line="3" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisBungee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="219" max-vertical-offset="525">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#838#839#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="3" column="81" lean-forward="false" selection-start-line="3" selection-start-column="81" selection-end-line="3" selection-end-column="81" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/jedis-2.4.2.jar!/redis/clients/jedis/JedisPool.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.92" vertical-offset="2" max-vertical-offset="1305">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        <state relative-caret-position="0">
+          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="37" lean-forward="false" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/jedis-2.4.2.jar!/redis/clients/jedis/Jedis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16344">
+          <caret line="940" column="5" lean-forward="false" selection-start-line="940" selection-start-column="5" selection-end-line="940" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/AdvancedBinaryJedisCommands.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/BasicRedisPipeline.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/BinaryJedisPubSub.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/BitOP.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/DebugParams.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/ProtocolCommand.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/ShardedJedisPipeline.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/Transaction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/JedisCluster.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compiledlib/redis/clients/jedis/Jedis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1350">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#243#270#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="54">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisBungee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/diquemc/jedis/DiqueMCJedisBukkit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6886228" vertical-offset="0" max-vertical-offset="501">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        <state relative-caret-position="144">
+          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -984,7 +1251,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1001,6 +1268,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

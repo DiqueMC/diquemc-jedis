@@ -6,11 +6,18 @@ import redis.clients.jedis.JedisPool;
 import redis.clients.jedis.JedisPubSub;
 import redis.clients.jedis.exceptions.JedisConnectionException;
 
+import java.util.Map;
+
 @SuppressWarnings("unused")
 public abstract class DiqueMCJedis {
     public static DiqueMCJedisServer server;
     public static JedisPool jedisPool = null;
 
+    public static void del(String key) {
+        try (Jedis j = jedisPool.getResource()) {
+            j.del(key);
+        }
+    }
 
     public static String get(String key){
         try (Jedis j = jedisPool.getResource()) {
@@ -27,6 +34,42 @@ public abstract class DiqueMCJedis {
     public static boolean exists(String key){
         try (Jedis j = jedisPool.getResource()) {
             return j.exists(key);
+        }
+    }
+
+    public static Object eval(String key){
+        try (Jedis j = jedisPool.getResource()) {
+            return j.eval(key);
+        }
+    }
+
+    public static Map<String, String> hgetall(String key){
+        try (Jedis j = jedisPool.getResource()) {
+            return j.hgetAll(key);
+        }
+    }
+
+    public static String hget(String key, String field){
+        try (Jedis j = jedisPool.getResource()) {
+            return j.hget(key, field);
+        }
+    }
+
+    public static void hmset(String key, Map<String,String> fieldValues){
+        try (Jedis j = jedisPool.getResource()) {
+            j.hmset(key, fieldValues);
+        }
+    }
+
+    public static void hset(String key, String field, String value){
+        try (Jedis j = jedisPool.getResource()) {
+            j.hset(key, field, value);
+        }
+    }
+
+    public static boolean sismember(String set, String value){
+        try (Jedis j = jedisPool.getResource()) {
+            return j.sismember(set, value);
         }
     }
 
