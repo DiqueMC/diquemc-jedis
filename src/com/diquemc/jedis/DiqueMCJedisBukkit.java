@@ -20,11 +20,12 @@ public class DiqueMCJedisBukkit extends JavaPlugin implements DiqueMCJedisServer
     @Override
     public void onEnable() {
         Bukkit.getLogger().info("INICIANDO ESTO");
-        DiqueMCJedis.server = this;
-        DiqueMCJedis.initializePool();
+        DiqueMCJedis.enable(this);
+//        DiqueMCJedis.setServer(this);
+//        DiqueMCJedis.getPool();
     }
 
     public void onDisable() {
-        DiqueMCJedis.destroyPool();
+        DiqueMCJedis.disable();
     }
 }

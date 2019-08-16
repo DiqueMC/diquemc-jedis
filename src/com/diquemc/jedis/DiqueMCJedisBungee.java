@@ -22,11 +22,13 @@ public class DiqueMCJedisBungee extends Plugin implements DiqueMCJedisServer {
     @Override
     public void onEnable() {
         BungeeCord.getInstance().getLogger().info("INICIANDO ESTO");
-        DiqueMCJedis.server = this;
-        DiqueMCJedis.initializePool();
+        DiqueMCJedis.enable(this);
+//        DiqueMCJedis.setServer(this);
+//        DiqueMCJedis.getPool();
     }
 
     public void onDisable() {
-        DiqueMCJedis.destroyPool();
+//        DiqueMCJedis.destroyPool();
+        DiqueMCJedis.disable();
     }
 }
