@@ -36,7 +36,7 @@ public abstract class DiqueMCJedis {
         }
     }
 
-    @SuppressWarnings("WeakerAccess")
+//    @SuppressWarnings("WeakerAccess")
     public static Jedis getPoolResource () {
         return getPool().getResource();
     }
