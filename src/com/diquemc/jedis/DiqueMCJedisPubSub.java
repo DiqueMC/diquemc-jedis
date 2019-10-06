@@ -12,33 +12,25 @@ public class DiqueMCJedisPubSub extends JedisPubSub {
         DiqueMCJedis.subscribe(this,channel);
     }
 
-    public DiqueMCJedisPubSub(DiqueMCJedisListener listener, String separator) {
+    private DiqueMCJedisPubSub(DiqueMCJedisListener listener, String separator) {
         this.listener = listener;
         this.separator = separator;
     }
 
     public DiqueMCJedisPubSub(DiqueMCJedisListener listener) {
-        this.listener = listener;
-        this.separator = "\r";
+        this(listener, "\r");
+//        this.listener = listener;
+//        this.separator = "\r";
     }
 
     public void onMessage(String channel, String message) {
-        String[] parsedMessage = message.split("\r");
-        listener.onMessage(channel, message, parsedMessage);
+        try {
+            String[] parsedMessage = message.split(separator);
+            listener.onMessage(channel, message, parsedMessage);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
     }
 
-    public void onSubscribe(String channel, int subscribedChannels) {
-    }
-
-    public void onUnsubscribe(String channel, int subscribedChannels) {
-    }
-
-    public void onPSubscribe(String pattern, int subscribedChannels) {
-    }
-
-    public void onPUnsubscribe(String pattern, int subscribedChannels) {
-    }
-
-    public void onPMessage(String pattern, String channel, String message) {
-    }
 }

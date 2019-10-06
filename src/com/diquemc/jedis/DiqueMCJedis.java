@@ -5,6 +5,7 @@ import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
 import redis.clients.jedis.JedisPubSub;
 import redis.clients.jedis.exceptions.JedisConnectionException;
+import redis.clients.jedis.params.SetParams;
 
 import java.util.Map;
 
@@ -42,14 +43,16 @@ public abstract class DiqueMCJedis {
     }
 
     public static void returnPoolResource (Jedis resource) {
-        getPool().returnResourceObject(resource);
+//        JedisPool pool = getPool();
+//        pool.returnResource(resource);
+        resource.close();
+//        resource.r
     }
 
     public static void del(String key) {
         try (Jedis j = getPoolResource()) {
             j.del(key);
         }
-
     }
 
     public static String get(String key){
@@ -61,6 +64,14 @@ public abstract class DiqueMCJedis {
     public static String set(String key, String value){
         try (Jedis j = getPoolResource()) {
             return j.set(key,value);
+        }
+    }
+
+    public static String set(String key, String value, int expireTimeInSeconds){
+        SetParams params = new SetParams();
+        params.ex(expireTimeInSeconds);
+        try (Jedis j = getPoolResource()) {
+            return j.set(key,value, params);
         }
     }
 

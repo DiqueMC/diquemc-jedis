@@ -1,4 +1,4 @@
 name: DiqueMCJedis
 main: com.diquemc.jedis.DiqueMCJedisBungee
-version: 0.1
+version: "1.0"
 author: Hector22x
