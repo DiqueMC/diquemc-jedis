@@ -1,5 +1,5 @@
 name: DiqueMCJedis
 main: com.diquemc.jedis.DiqueMCJedisBukkit
 version: "1.0"
-api-version: "1.16"
+api-version: "1.20"
 author: Hector22x
